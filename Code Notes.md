@@ -1,6 +1,7 @@
 # CSS
 - [[SASS]]
 # Git
-- [[Commit]]
+- [[commit]]
+- [[config]]
 # React
 - [[React Router DOM]]
