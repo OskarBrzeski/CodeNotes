@@ -1,3 +1,6 @@
+# C
+- [[GCC]]
+- [[Stdio]]
 # CSS
 - [[SASS]]
 # Git
