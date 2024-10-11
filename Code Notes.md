@@ -8,3 +8,4 @@
 - [[config]]
 # React
 - [[React Router DOM]]
+- [[Vite]]
