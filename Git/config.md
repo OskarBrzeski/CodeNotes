@@ -17,7 +17,11 @@ git push  # Enter credentials
 ```
 Set timeout for credentials
 ```bash
-git config credential.helper 'cache --timeout <time-in-s>'
+git config credential.helper "cache --timeout <time-in-s>"
+```
+Set default branch name
+```bash
+git config init.defaultBranch "main"
 ```
 ## Options
 **`--local`** 
