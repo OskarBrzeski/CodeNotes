@@ -9,4 +9,5 @@
 # React
 - [[Form]]
 - [[React Router DOM]]
+- [[Types]]
 - [[Vite]]
